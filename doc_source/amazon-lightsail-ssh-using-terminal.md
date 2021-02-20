@@ -96,7 +96,7 @@ In the following procedure you will change the permissions of your private key f
      + cPanel & WHM instances: `centos`
    + *public\-ip\-address* with the public IP address of your instance that you noted from the Lightsail console earlier in this guide\.
 
-   **Example with aboslute path:**
+   **Example with absolute path:**
 
    ```
    ssh -i /Users/user/Keys/LightsailDefaultKey-us-west-2.pem ec2-user@192.0.1.0
